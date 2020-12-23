@@ -1,0 +1,23 @@
+Jonathan Rogers:
+  name        : "Jonathan Rogers"
+  bio         : "A nice bio"
+  avatar      : "/assets/images/jonathan_rogers.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+Sanchit Shah:
+  name        : "Sanchit S."
+  bio         : "A really nice bio"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Upswing Profile"
+      icon: "fas fa-fw fa-link"
+      url: "https://ncvps.upswing.io/up/dashboard/coach/EjY1ZvGwconKDIgUzdQiMp~2Frcgs="
