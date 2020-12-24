@@ -1,6 +1,6 @@
 ---
-title: "The Biology Honors Resource page is now available"
-date: 2020-12-24T15:34:30-01:24
+title: "The Biology Honors resource page is now available"
+date: 2020-12-24T15:34:30-01:40
 author_profile: true
 author: Jonathan Rogers
 categories:
@@ -13,7 +13,7 @@ tags:
   - Resource Page
   - Biology Honors
 ---
-The Biology Honors Resource page is now available for use. To access the page, use the button below.
+The Biology Honors resource page is now available for use. To access the page, use the button below.
 
 <a href="/resources/biology_honors" class="btn btn--primary btn--large">Biology Honors Resource Page</a>
 
