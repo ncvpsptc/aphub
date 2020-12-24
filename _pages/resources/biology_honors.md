@@ -3,7 +3,7 @@ title: "Biology Honors"
 permalink: /resources/biology_honors
 author_profile: false
 header:
-  overlay_image: /assets/images/mushrooms.jpg 
+  overlay_image: /assets/images/biology_honors_header.jpg 
   overlay_filter: 0.5
   caption: "Photo credit: [**'Visually Us' on Pexels**](https://www.pexels.com/photo/white-fungi-1643416/)"
 toc: true
