@@ -3,9 +3,9 @@ Jonathan Rogers:
   bio         : "A nice bio"
   avatar      : "/assets/images/jonathan_rogers.jpg"
   links:
-    - label: "Website"
+    - label: "Upswing Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "https://github.com/jonathan-rogers-dev" # Needs to be changed
 
 Sanchit Shah:
   name        : "Sanchit S."
