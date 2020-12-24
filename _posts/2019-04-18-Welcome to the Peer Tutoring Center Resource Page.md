@@ -4,7 +4,7 @@ date: 2020-12-22T15:34:30-04:00
 author_profile: true
 author: Jonathan Rogers
 categories:
-  - news
+  - News
 tags:
   - Welcome
   - PTC
