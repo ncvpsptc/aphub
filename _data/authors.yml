@@ -1,0 +1,26 @@
+Jonathan Rogers:
+  name        : "Jonathan Rogers"
+  bio         : "A nice bio"
+  avatar      : "/assets/images/jonathan_rogers.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+
+Sanchit Shah:
+  name        : "Sanchit S."
+  bio         : "A really nice bio"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Upswing Profile"
+      icon: "fas fa-fw fa-link"
+      url: "https://ncvps.upswing.io/up/dashboard/coach/EjY1ZvGwconKDIgUzdQiMp~2Frcgs="
+
+Pranathi Gorty:
+  name        : "Pranathi G."
+  bio         : "A really nice bio"
+  avatar      : "/assets/images/pranathi_gorty.jpg"
+  links:
+    - label: "Upswing Profile"
+      icon: "fas fa-fw fa-link"
+      url: "https://ncvps.upswing.io/up/dashboard/coach/gZANbNiPLN1sO4aMO7lrOHu6+6Y="

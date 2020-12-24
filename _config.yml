@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The official resource page of the NCVirutal Peer Tutoring Center.
 twitter_username: ncvps_ptc
 github_username: username
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: dirt
+search: false
 
 # Build settings
 markdown: kramdown
@@ -56,23 +56,23 @@ plugins:
   - jekyll-include-cache
 
 
-#author:
-#  name   : "First Lastname"
-#  avatar : "/assets/images/bio-photo.jpg"
-#  bio    : "My awesome biography constrained to a sentence or two goes here."
-#  links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+author:
+  name   : "First Lastname"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:
@@ -106,7 +106,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
