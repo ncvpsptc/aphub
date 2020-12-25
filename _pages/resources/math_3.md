@@ -10,3 +10,7 @@ toc: true
 toc_label: " Table of Contents"
 toc_icon: "file-alt"
 ---
+
+# Course Material
+<a href="https://files.nc.gov/dpi/documents/files/eoc-nc-math-3-released-form.pdf
+" class="btn btn--primary btn--x-large">Math 3 Released EOC</a>
