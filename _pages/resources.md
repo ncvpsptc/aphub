@@ -18,4 +18,4 @@ header:
 <a href="/resources/ap_biology" class="btn btn--primary btn--x-large">AP Biology</a>
 
 # Mathematics
-<a href="/resources/math_3" class="btn btn--primary btn--x-large">Math 3</a>
+<a href="/resources/math_3_honors" class="btn btn--primary btn--x-large">Math III Honors</a>

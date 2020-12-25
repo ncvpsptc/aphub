@@ -21,6 +21,8 @@ toc_icon: "file-alt"
 " class="btn btn--primary btn--x-large">Unpacked Content</a>
 <a href="https://drive.google.com/file/d/1pMoAzg_Z347bQxxr4WxORHqSXP9IjWyW/view?usp=sharing
 " class="btn btn--primary btn--x-large">Assessment Examples</a>
+<a href="https://files.nc.gov/dpi/documents/files/biology_3375_released_final-2019.pdf
+" class="btn btn--primary btn--x-large">Biology Released EOC </a>
 
 # Units
 Coming Soon
