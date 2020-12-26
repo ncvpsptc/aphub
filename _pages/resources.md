@@ -14,8 +14,8 @@ header:
 <a href="/resources/biology_honors" class="btn btn--success btn--x-large">Biology Honors</a>
 <a href="#" class="btn btn--success btn--x-large">AP Biology</a>
 -->
-<a href="/resources/biology_honors" class="btn btn--primary btn--x-large">Biology Honors</a>
-<a href="/resources/ap_biology" class="btn btn--primary btn--x-large">AP Biology</a>
+<a href="/resources/biology_honors" class="btn btn--inverse btn--x-large">Biology Honors</a>
+<a href="/resources/ap_biology" class="btn btn--inverse btn--x-large">AP Biology</a>
 
 # Mathematics
-<a href="/resources/math_3_honors" class="btn btn--primary btn--x-large">Math III Honors</a>
+<a href="/resources/math_3_honors" class="btn btn--inverse btn--x-large">Math III Honors</a>

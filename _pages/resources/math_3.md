@@ -13,8 +13,8 @@ toc_icon: "file-alt"
 
 # Course Material
 <a href="https://files.nc.gov/dpi/documents/files/eoc-nc-math-3-released-form.pdf
-" class="btn btn--primary btn--x-large">Math III Released EOC</a>
+" class="btn btn--inverse btn--x-large">Math III Released EOC</a>
 
 # Module 1: Circles
 <a href="/resources/math_3/nc_math_3_honors_review_session_-_module_1_circles
-" class="btn btn--primary btn--x-large">Review Session - Module 1: Circles</a>
+" class="btn btn--inverse btn--x-large">Review Session - Module 1: Circles</a>

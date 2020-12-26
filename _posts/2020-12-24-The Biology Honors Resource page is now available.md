@@ -15,7 +15,7 @@ tags:
 ---
 The Biology Honors resource page is now available for use. To access the page, use the button below.
 
-<a href="/resources/biology_honors" class="btn btn--primary btn--large">Biology Honors Resource Page</a>
+<a href="/resources/biology_honors" class="btn btn--inverse btn--large">Biology Honors Resource Page</a>
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
