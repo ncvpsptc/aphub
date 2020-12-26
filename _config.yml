@@ -21,7 +21,16 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: ncvps_ptc
 github_username: username
 minimal_mistakes_skin: dirt
-search: false
+search: true
+search_provider: algolia
+
+algolia:
+  application_id: 'F7OL26MPPT'
+  index_name: 'ptcresources'
+  search_only_api_key: 7ce24efec63b78b3b6e354591a6ab516
+  powered_by: true
+
+
 
 # Build settings
 markdown: kramdown
@@ -38,7 +47,7 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
