@@ -21,15 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: ncvps_ptc
 github_username: username
 minimal_mistakes_skin: dirt
-search: true
-search_provider: algolia
-
-algolia:
-  application_id: 'F7OL26MPPT'
-  index_name: 'ptcresources'
-  search_only_api_key: 7ce24efec63b78b3b6e354591a6ab516
-  powered_by: true
-
 
 
 # Build settings
@@ -55,8 +46,8 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-exclude: [vendor]
 # Plugins (previously gems:)
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
