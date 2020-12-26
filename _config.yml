@@ -41,8 +41,6 @@ algolia:
     attributesToHighlight:
       - author_profile
       - categories
-      - collection
-      - content
       - headings
       - html
       - tags
