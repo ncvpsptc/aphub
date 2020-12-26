@@ -30,6 +30,23 @@ algolia:
   index_name: ptcresources_index
   search_only_api_key: 7ce24efec63b78b3b6e354591a6ab516
   powered_by: true
+  
+  settings:
+    searchableAttributes:
+      - title
+      - headings
+      - unordered(content)
+      - collection,categories,tags
+      - unordered(author)
+    attributesToHighlight:
+      - author_profile
+      - categories
+      - collection
+      - content
+      - headings
+      - html
+      - tags
+      - title
 
 
 # Build settings
