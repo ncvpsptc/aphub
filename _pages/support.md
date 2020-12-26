@@ -10,10 +10,11 @@ header:
 ---
 
 # Tech Support
-<a href="https://ncvpsptc.github.io/ai/tech-support/" class="btn btn--primary btn--x-large">Tech Support</a>
+<a href="/support/tech_support/" class="btn btn--inverse btn--x-large">Tech Support</a>
+<a href="https://ncvpsptc.github.io/ai/tech-support/" class="btn btn--inverse btn--x-large">Tech Support (depreciated)</a>
 
 # Support for NCVirutal Students
 All NCVirutal (formerly NCVPS) students can access live tutoring through the Upswing tutoring platform. More information can be found at the link below.
 
-<a href="https://ncvps.org/peer-tutoring-center/" class="btn btn--primary btn--x-large">NCVirutal Peer Tutoring Center</a>
+<a href="https://ncvps.org/peer-tutoring-center/" class="btn btn--inverse btn--x-large">NCVirutal Peer Tutoring Center</a>
 
