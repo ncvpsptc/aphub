@@ -55,6 +55,7 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude: [vendor]
 
 # Plugins (previously gems:)
 plugins:
