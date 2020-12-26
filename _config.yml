@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The official resource page of the NCVirutal Peer Tutoring Center.
 twitter_username: ncvps_ptc
 github_username: username
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dirt"
 search: true
 search_provider: algolia
 
@@ -56,7 +56,6 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 exclude: [vendor]
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
