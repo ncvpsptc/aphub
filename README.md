@@ -19,3 +19,6 @@ Examples
 All header images must be altered to use an aspect ratio of **5:1**
 
 ## Website Management
+### Third-Party Services
+* Algolia - used for search functionality
+* Travis CI - used for automatic indexing
