@@ -36,8 +36,8 @@ algolia:
       - title
       - headings
       - unordered(content)
-      - collection,categories,tags
       - unordered(author)
+      - collection,categories,tags
       - unordered(html)
       - unordered(excerpt_html)
     attributesToHighlight:
