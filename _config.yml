@@ -41,14 +41,17 @@ algolia:
       - unordered(html)
       - unordered(excerpt_html)
     attributesToHighlight:
+      - author
       - author_profile
       - categories
       - content
       - excerpt_html
+      - excerpt_text
       - headings
       - html
       - tags
       - title
+      - url
 
 
 # Build settings
