@@ -19,3 +19,4 @@ header:
 
 # Mathematics
 <a href="/resources/math_3_honors" class="btn btn--inverse btn--x-large">Math III Honors</a>
+<a href="/resources/math_2_honors" class="btn btn--inverse btn--x-large">Math II Honors</a>
