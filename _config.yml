@@ -122,7 +122,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/NCVPSPTC/
-
+    - label: "Statuspage"
+      icon: "fas fa-check-square"
+      url: https://ptcresourcespage.statuspage.io/
 
 defaults:
   # _posts
