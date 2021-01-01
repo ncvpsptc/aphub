@@ -18,3 +18,7 @@ All NCVirutal (formerly NCVPS) students can access live tutoring through the Ups
 
 <a href="https://ncvps.org/peer-tutoring-center/" class="btn btn--inverse btn--x-large">NCVirutal Peer Tutoring Center</a>
 
+# System Status
+<a href="https://ptcresourcespage.statuspage.io/" class="btn btn--inverse btn--x-large"> PTC Resources Statuspage</a>
+
+<script src="https://kkv4my7nbhv3.statuspage.io/embed/script.js"></script>
