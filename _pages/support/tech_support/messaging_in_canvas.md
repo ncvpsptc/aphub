@@ -2,7 +2,7 @@
 title: "Messaging in Canvas"
 permalink: /support/tech_support/messaging_in_canvas/
 author_profile: true
-author: Jonathan Rogers
+author: Jonathan R.
 tags:
   - Tech
   - Tech Support
