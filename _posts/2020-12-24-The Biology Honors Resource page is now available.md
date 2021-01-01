@@ -2,7 +2,7 @@
 title: "The Biology Honors resource page is now available"
 date: 2020-12-24T15:34:30-01:40
 author_profile: true
-author: Jonathan Rogers
+author: Jonathan R.
 categories:
   - News
   - Updates

@@ -2,7 +2,7 @@
 title: "The Math III Honors resource page is now available"
 date: 2020-12-24T15:34:30-11:05
 author_profile: true
-author: Jonathan Rogers
+author: Jonathan R.
 categories:
   - News
   - Updates

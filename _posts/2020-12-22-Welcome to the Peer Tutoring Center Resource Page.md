@@ -2,7 +2,7 @@
 title: "Welcome to the Peer Tutoring Center Resource Page!"
 date: 2020-12-22T15:34:30-04:00
 author_profile: true
-author: Jonathan Rogers
+author: Jonathan R.
 categories:
   - News
 tags:

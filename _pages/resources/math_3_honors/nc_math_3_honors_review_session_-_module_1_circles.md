@@ -2,7 +2,7 @@
 title: "NC Math III Honors Review Session - Module 1: Circles"
 permalink: /resources/math_3/nc_math_3_honors_review_session_-_module_1_circles/
 author_profile: true
-author: Sanchit Shah
+author: Sanchit S.
 tags:
   - Math III
   - Math 3

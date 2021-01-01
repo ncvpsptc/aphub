@@ -1,13 +1,13 @@
-Jonathan Rogers:
-  name        : "Jonathan Rogers"
+Jonathan R.:
+  name        : "Jonathan R."
   bio         : "A nice bio"
-  avatar      : "/assets/images/jonathan_rogers.jpg"
+  avatar      : "/assets/images/jonathan_r.jpg"
   links:
     - label: "Upswing Profile"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/jonathan-rogers-dev" # Needs to be changed
 
-Sanchit Shah:
+Sanchit S.:
   name        : "Sanchit S."
   bio         : "A really nice bio"
   avatar      : "/assets/images/bio-photo.jpg"
@@ -16,10 +16,10 @@ Sanchit Shah:
       icon: "fas fa-fw fa-link"
       url: "https://ncvps.upswing.io/up/dashboard/coach/EjY1ZvGwconKDIgUzdQiMp~2Frcgs="
 
-Pranathi Gorty:
+Pranathi G.:
   name        : "Pranathi G."
   bio         : "A really nice bio"
-  avatar      : "/assets/images/pranathi_gorty.jpg"
+  avatar      : "/assets/images/bio-photo.jpg"
   links:
     - label: "Upswing Profile"
       icon: "fas fa-fw fa-link"
