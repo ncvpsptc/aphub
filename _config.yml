@@ -53,6 +53,12 @@ algolia:
       - title
       - url
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "GTM-NC27M9K"
+    anonymize_ip: false # default
+
 
 # Build settings
 markdown: kramdown
