@@ -56,7 +56,7 @@ algolia:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "GTM-NC27M9K"
+    tracking_id: "G-HXN46ZK843"
     anonymize_ip: false # default
 
 
