@@ -11,4 +11,8 @@ toc_label: " Table of Contents"
 toc_icon: "file-alt"
 ---
 
-# Coming Soon
+# Course Material
+<a href="https://docs.google.com/document/d/13p_tOECzoVcDrUoLHtF1wgczsYc4I7CUUe6f99DiZfc/edit?usp=sharing" class="btn btn--inverse btn--x-large">Additional Resources</a>
+
+# Units
+Coming Soon
