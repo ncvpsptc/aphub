@@ -1,6 +1,6 @@
 ---
 title: "NC Math III Honors - Module 1: Circles"
-permalink: /resources/math_3/nc_math_3_honors_-_module_1_circles/
+permalink: /resources/math_3/nc_math_3_honors_-_module_1_video/
 author_profile: true
 author: Sanchit S.
 tags:
