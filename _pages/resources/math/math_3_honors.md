@@ -21,4 +21,4 @@ toc_icon: "file-alt"
 <a href="/resources/math_3/nc_math_3_honors_-_module_2_video/" class="btn btn--inverse btn--x-large">Module 2: Volume, Surface Area, and Density</a>
 
 # Module 3: Properties and Characteristics of Functions
-<a href="/resources/math/quadratic_functions_and_equations_video/" class="btn btn--inverse btn--x-large">Quadratic Functions and Equations</a>
+Coming Soon
