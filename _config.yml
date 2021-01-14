@@ -36,6 +36,7 @@ algolia:
       - title
       - headings
       - unordered(content)
+      - unordered(tags)
       - unordered(author)
       - collection,categories,tags
       - unordered(html)
