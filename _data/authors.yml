@@ -1,26 +1,23 @@
 Jonathan R.:
   name        : "Jonathan R."
-  bio         : "A nice bio"
   avatar      : "/assets/images/jonathan_r.jpg"
   links:
-    - label: "Upswing Profile"
-      icon: "fas fa-fw fa-link"
+    - label: "Request a Session"
+      icon: "far fa-life-ring"
       url: "https://ncvps.upswing.io/up/dashboard/coach/EM66G70CChq3FTSpbAp723n8n48="
 
 Sanchit S.:
   name        : "Sanchit S."
-  bio         : "A really nice bio"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/images/sanchit_s.jpg"
   links:
-    - label: "Upswing Profile"
-      icon: "fas fa-fw fa-link"
+    - label: "Request a Session"
+      icon: "far fa-life-ring"
       url: "https://ncvps.upswing.io/up/dashboard/coach/EjY1ZvGwconKDIgUzdQiMp~2Frcgs="
 
 Pranathi G.:
   name        : "Pranathi G."
-  bio         : "A really nice bio"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/images/pranathi_g.png"
   links:
-    - label: "Upswing Profile"
-      icon: "fas fa-fw fa-link"
+    - label: "Request a Session"
+      icon: "far fa-life-ring"
       url: "https://ncvps.upswing.io/up/dashboard/coach/gZANbNiPLN1sO4aMO7lrOHu6+6Y="
