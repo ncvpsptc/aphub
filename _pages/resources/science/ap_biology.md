@@ -12,7 +12,7 @@ toc_icon: "file-alt"
 ---
 
 # Course Material
-<a href="https://docs.google.com/document/d/13p_tOECzoVcDrUoLHtF1wgczsYc4I7CUUe6f99DiZfc/edit?usp=sharing" class="btn btn--inverse btn--x-large">Additional Resources</a>
+<a href="https://docs.google.com/document/d/13p_tOECzoVcDrUoLHtF1wgczsYc4I7CUUe6f99DiZfc/edit?usp=sharing" target="_blank" class="btn btn--inverse btn--x-large">Additional Resources</a>
 
 # Units
 Coming Soon

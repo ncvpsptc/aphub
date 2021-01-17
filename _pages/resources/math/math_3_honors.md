@@ -12,7 +12,7 @@ toc_icon: "file-alt"
 ---
 
 # Course Material
-<a href="https://files.nc.gov/dpi/documents/files/eoc-nc-math-3-released-form.pdf" class="btn btn--inverse btn--x-large">Math III Released EOC</a>
+<a href="https://files.nc.gov/dpi/documents/files/eoc-nc-math-3-released-form.pdf" target="_blank" class="btn btn--inverse btn--x-large">Math III Released EOC</a>
 
 # Module 1: Circles
 <a href="/resources/math_3/nc_math_3_honors_-_module_1_video/" class="btn btn--inverse btn--x-large">Module 1: Circles</a>
