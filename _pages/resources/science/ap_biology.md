@@ -1,6 +1,6 @@
 ---
 title: "AP Biology"
-permalink: /resources/ap_biology
+permalink: /resources/ap-biology
 author_profile: false
 header:
   overlay_image: /assets/images/ap_biology_header.jpg 
