@@ -14,11 +14,15 @@ toc_icon: "file-alt"
 # Course Material
 <a href="https://files.nc.gov/dpi/documents/files/eoc-nc-math-3-released-form.pdf" target="_blank" class="btn btn--inverse btn--x-large">Math III Released EOC</a>
 
-# Module 1: Circles
-<a href="/resources/math_3/nc_math_3_honors_-_module_1_video/" class="btn btn--inverse btn--x-large">Module 1: Circles</a>
+# Number
+<a href="/resources/math-3-honors/the-fundamental-theorem-of-algebra-and-roots" target="_blank" class="btn btn--inverse btn--x-large">The Fundamental Theorem of Algebra and Roots</a>
 
-# Module 2: Volume, Surface Area, and Density
-<a href="/resources/math_3/nc_math_3_honors_-_module_2_video/" class="btn btn--inverse btn--x-large">Module 2: Volume, Surface Area, and Density</a>
+<!-- 
+# Algebra
 
-# Module 3: Properties and Characteristics of Functions
-<a href="/resources/math_3/nc_math_3_honors_-_module_3_video/" class="btn btn--inverse btn--x-large">Module 3: Properties and Characteristics of Functions</a>
+# Functions
+
+# Geometry
+
+# Statistics & Probability
+-->

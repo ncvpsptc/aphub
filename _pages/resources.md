@@ -21,5 +21,5 @@ toc_icon: "file-alt"
 <a href="/resources/biology_honors" class="btn btn--inverse btn--x-large">Biology Honors</a>
 
 ## Mathematics
-<a href="/resources/math_3_honors" class="btn btn--inverse btn--x-large">Math III Honors</a>
-<a href="/resources/math_2_honors" class="btn btn--inverse btn--x-large">Math II Honors</a>
+<a href="/resources/math-3-honors" class="btn btn--inverse btn--x-large">Math III Honors</a>
+<a href="/resources/math-2-honors" class="btn btn--inverse btn--x-large">Math II Honors</a>
