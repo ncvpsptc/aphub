@@ -13,6 +13,3 @@ toc_icon: "file-alt"
 
 # Course Material
 <a href="https://drive.google.com/file/d/1eRiok9it_pxyKNF4IXk8Fo5c1mKpqVeW/view?usp=sharing" target="_blank" class="btn btn--inverse btn--x-large">Unpacked Content</a>
-
-# Module 1: Quadratics
-<a href="/resources/math_2/quadratic_functions_and_equations_video/" class="btn btn--inverse btn--x-large">Quadratic Functions and Equations</a>
