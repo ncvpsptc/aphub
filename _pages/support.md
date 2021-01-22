@@ -10,7 +10,7 @@ header:
 ---
 
 # Tech Support
-<a href="/support/tech_support/" class="btn btn--inverse btn--x-large">Tech Support</a>
+<a href="/support/tech-support/" class="btn btn--inverse btn--x-large">Tech Support</a>
 <a href="https://ncvpsptc.github.io/ai/tech-support/" target="_blank" class="btn btn--inverse btn--x-large">Tech Support (depreciated)</a>
 
 # Support for NCVirtual Students

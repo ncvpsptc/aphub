@@ -1,6 +1,6 @@
 ---
 title: "Tech Support"
-permalink: /support/tech_support/
+permalink: /support/tech-support/
 author_profile: false
 header:
   overlay_image: /assets/images/tech_support_header.jpg 
