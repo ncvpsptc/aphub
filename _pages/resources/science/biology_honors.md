@@ -12,7 +12,7 @@ toc_icon: "file-alt"
 ---
 
 
-<a href="/resources/biology_honors/biology_review_session" class="btn btn--inverse btn--x-large">Biology Review Session</a>
+<a href="/resources/biology_honors/biology_review_session" target="_blank" class="btn btn--inverse btn--x-large">Biology Review Session</a>
 
 # Course Material
 <a href="https://drive.google.com/file/d/1xC2ldAh-Z4cZJ1YIgPUPxfPYYtmIRxLA/view?usp=sharing" target="_blank" class="btn btn--inverse btn--x-large">NC Science Essential Standards</a>
