@@ -1,6 +1,6 @@
 ---
 title: "Math III Honors"
-permalink: /resources/math_3_honors
+permalink: /resources/math-3-honors
 author_profile: false
 header:
   overlay_image: /assets/images/math_3_honors_header.jpg 
