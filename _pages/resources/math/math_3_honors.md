@@ -18,7 +18,7 @@ toc_icon: "file-alt"
 Coming Soon
 # Units
 ## Number
-<a href="/resources/math-3-honors/the-fundamental-theorem-of-algebra-and-roots" target="_blank" class="btn btn--inverse btn--x-large">The Fundamental Theorem of Algebra and Roots</a>
+<a href="/resources/math-3-honors/the-fundamental-theorem-of-algebra-and-roots" class="btn btn--inverse btn--x-large">The Fundamental Theorem of Algebra and Roots</a>
 
 <!-- 
 # Algebra
