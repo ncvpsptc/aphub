@@ -24,7 +24,7 @@ NC.M3.N-CN.9
 ### Tags
 Math 3, Polynomial, Roots, Solve, Fundamental Theorem of Algebra, Imaginary, Real, NC.M3.N-CN.9
 
-<a href="/resources/math-3-honors">
+<a href="/resources/math-1-honors">
   <span style="font-size: 48px; color: #00000;">
     <i class="fas fa-arrow-circle-left"> </i>
   </span>
