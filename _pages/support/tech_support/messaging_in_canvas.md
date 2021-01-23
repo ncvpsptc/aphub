@@ -9,6 +9,12 @@ header:
   caption: "Photo credit: [**'luis gomes' on Pexels**](https://www.pexels.com/photo/blur-close-up-code-computer-546819/)"
 
 ---
+<a href="/support/tech-support/">
+  <span style="font-size: 48px; color: #00000;">
+    <i class="fas fa-arrow-circle-left"> </i>
+  </span>
+</a> 
+
 <iframe width="560" height="315" src="https://ncvps.yuja.com/V/Video?v=2366817&node=8482326&a=1857897045&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 How to message a teacher in Canvas.
@@ -20,9 +26,3 @@ How to message a teacher in Canvas.
 
 ### Tags
 Tech, Tech Support, Support, Canvas, Messaging, Contact, Teacher
-
-<a href="/support/tech-support/">
-  <span style="font-size: 48px; color: #00000;">
-    <i class="fas fa-arrow-circle-left"> </i>
-  </span>
-</a> 

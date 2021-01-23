@@ -10,6 +10,11 @@ toc: true
 toc_label: " Table of Contents"
 toc_icon: "file-alt"
 ---
+<a href="/resources/">
+  <span style="font-size: 48px; color: #00000;">
+    <i class="fas fa-arrow-circle-left"> </i>
+  </span>
+</a> 
 
 # Course Material
 <a href="https://docs.google.com/document/d/13p_tOECzoVcDrUoLHtF1wgczsYc4I7CUUe6f99DiZfc/edit?usp=sharing" target="_blank" class="btn btn--inverse btn--x-large">Additional Resources</a>
