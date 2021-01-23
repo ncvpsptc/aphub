@@ -10,6 +10,11 @@ toc: true
 toc_label: " Table of Contents"
 toc_icon: "file-alt"
 ---
+<a href="/support/">
+  <span style="font-size: 48px; color: #00000;">
+    <i class="fas fa-arrow-circle-left"> </i>
+  </span>
+</a> 
 
 ## Canvas Support
 <a href="/support/tech-support/messaging-in-canvas/" class="btn btn--inverse btn--x-large">Messaging in Canvas</a>
