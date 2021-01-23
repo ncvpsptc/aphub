@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [**'JESHOOTS.com' on Pexels**](https://www.pexels.com/photo/person-holding-a-chalk-in-front-of-the-chalk-board-714699/)"
 ---
-<a href="/resources/math-3/">
+<a href="/resources/math-3">
   <span style="font-size: 48px; color: #00000;">
     <i class="fas fa-arrow-circle-left"> </i>
   </span>
