@@ -16,7 +16,7 @@ toc_icon: "file-alt"
 ## Science
 <a href="/resources/ap-biology" class="btn btn--inverse btn--x-large">AP Biology</a>
 
-# Regular
+# Honors/Regular
 ## Science
 <a href="/resources/biology" class="btn btn--inverse btn--x-large">Biology</a>
 
