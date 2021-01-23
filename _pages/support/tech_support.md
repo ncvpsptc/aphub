@@ -1,6 +1,6 @@
 ---
 title: "Tech Support"
-permalink: /support/tech_support/
+permalink: /support/tech-support/
 author_profile: false
 header:
   overlay_image: /assets/images/tech_support_header.jpg 
@@ -12,4 +12,4 @@ toc_icon: "file-alt"
 ---
 
 ## Canvas Support
-<a href="/support/tech_support/messaging_in_canvas" class="btn btn--inverse btn--x-large">Messaging in Canvas</a>
+<a href="/support/tech-support/messaging-in-canvas/" class="btn btn--inverse btn--x-large">Messaging in Canvas</a>
