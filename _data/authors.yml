@@ -1,26 +1,39 @@
-Jonathan Rogers:
-  name        : "Jonathan Rogers"
-  bio         : "A nice bio"
-  avatar      : "/assets/images/jonathan_rogers.jpg"
+Jonathan R.:
+  name        : "Jonathan R."
+  avatar      : "/assets/images/jonathan_r.jpg"
   links:
-    - label: "Upswing Profile"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/jonathan-rogers-dev" # Needs to be changed
+    - label: "Request a Session"
+      icon: "far fa-life-ring"
+      url: "https://ncvps.upswing.io/up/dashboard/coach/EM66G70CChq3FTSpbAp723n8n48="
 
-Sanchit Shah:
+Sanchit S.:
   name        : "Sanchit S."
-  bio         : "A really nice bio"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/images/sanchit_s.jpg"
   links:
-    - label: "Upswing Profile"
-      icon: "fas fa-fw fa-link"
+    - label: "Request a Session"
+      icon: "far fa-life-ring"
       url: "https://ncvps.upswing.io/up/dashboard/coach/EjY1ZvGwconKDIgUzdQiMp~2Frcgs="
 
-Pranathi Gorty:
+Pranathi G.:
   name        : "Pranathi G."
-  bio         : "A really nice bio"
-  avatar      : "/assets/images/pranathi_gorty.jpg"
+  avatar      : "/assets/images/pranathi_g.png"
   links:
-    - label: "Upswing Profile"
-      icon: "fas fa-fw fa-link"
+    - label: "Request a Session"
+      icon: "far fa-life-ring"
       url: "https://ncvps.upswing.io/up/dashboard/coach/gZANbNiPLN1sO4aMO7lrOHu6+6Y="
+
+Nidhi K.:
+  name        : "Nidhi K."
+  avatar      : "/assets/images/nidhi_k.jpg"
+  links:
+    - label: "Request a Session"
+      icon: "far fa-life-ring"
+      url: "https://ncvps.upswing.io/up/dashboard/coach/ifpImBpsAdpDFbkBVAShDfS72AU="
+
+Varun V.:
+  name        : "Varun V."
+  avatar      : "/assets/images/varun_v.jpg"
+  links:
+    - label: "Request a Session"
+      icon: "far fa-life-ring"
+      url: "https://ncvps.upswing.io/up/dashboard/coach/07JCCuCzNH5Kr10kiMqUPCXXEok="

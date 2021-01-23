@@ -17,7 +17,7 @@ logo: "/assets/images/logo.png"
 title: Peer Tutoring Center Resources Page
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  The official resource page of the NCVirutal Peer Tutoring Center.
+  The official resource page of the NCVirtual Peer Tutoring Center.
 twitter_username: ncvps_ptc
 github_username: username
 minimal_mistakes_skin: dirt
@@ -36,19 +36,29 @@ algolia:
       - title
       - headings
       - unordered(content)
-      - collection,categories,tags
+      - unordered(tags)
       - unordered(author)
+      - collection,categories,tags
       - unordered(html)
       - unordered(excerpt_html)
     attributesToHighlight:
+      - author
       - author_profile
       - categories
       - content
       - excerpt_html
+      - excerpt_text
       - headings
       - html
       - tags
       - title
+      - url
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-HXN46ZK843"
+    anonymize_ip: false # default
 
 
 # Build settings
@@ -62,6 +72,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - social-share
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -107,9 +118,10 @@ author:
 footer:
   links:
     - label: "Peer Tutoring Center Homepage"
+      icon: "far fa-window-restore"
       url: "https://ncvps.org/peer-tutoring-center/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-instagram"
       url: "https://www.instagram.com/ncvps_ptc/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -117,6 +129,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/NCVPSPTC/
+    - label: "Statuspage"
+      icon: "fas fa-check-square"
+      url: https://ptcresourcespage.statuspage.io/
 
 defaults:
   # _posts
