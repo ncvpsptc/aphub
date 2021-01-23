@@ -5,7 +5,7 @@ author_profile: false
 header:
   overlay_image: /assets/images/math_2_honors_header.jpg 
   overlay_filter: 0.5
-  caption: "Photo credit: [**'JESHOOTS.com' on Pexels**](https://www.pexels.com/photo/person-holding-a-chalk-in-front-of-the-chalk-board-714699/)"
+  caption: "Photo credit: [**'Pixabay' on Pexels**](https://www.pexels.com/photo/black-and-grey-casio-scientific-calculator-showing-formula-220301/)"
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "file-alt"

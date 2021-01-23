@@ -18,4 +18,4 @@ toc_icon: "file-alt"
 Coming Soon
 # Units
 ## Geometry
-<a href="/resources/math-3-honors/the-fundamental-theorem-of-algebra-and-roots" class="btn btn--inverse btn--x-large">Finding Midpoint and Endpoint of a Segment </a>
+<a href="/resources/math-1-honors/finding-midpoint-and-endpoint-of-a-segment" class="btn btn--inverse btn--x-large">Finding Midpoint and Endpoint of a Segment </a>
