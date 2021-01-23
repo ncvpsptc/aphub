@@ -23,3 +23,4 @@ toc_icon: "file-alt"
 ## Mathematics
 <a href="/resources/math-3-honors" class="btn btn--inverse btn--x-large">Math III Honors</a>
 <a href="/resources/math-2-honors" class="btn btn--inverse btn--x-large">Math II Honors</a>
+<a href="/resources/math-1-honors" class="btn btn--inverse btn--x-large">Math I Honors</a>
