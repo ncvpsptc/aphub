@@ -14,7 +14,7 @@ Watch as Sanchit goes over the fundamental theorem of algebra and how it can be 
 
 ## Information
 
-## Related Standards
+### Related Standards
 NC.M3.N-CN.9
 
 ### Copyright
