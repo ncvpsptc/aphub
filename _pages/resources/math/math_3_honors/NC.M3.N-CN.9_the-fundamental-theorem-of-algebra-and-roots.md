@@ -8,6 +8,8 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [**'JESHOOTS.com' on Pexels**](https://www.pexels.com/photo/person-holding-a-chalk-in-front-of-the-chalk-board-714699/)"
 ---
+
+
 <iframe width="560" height="315" src="https://ncvps.yuja.com/V/Video?v=2451604&node=8934715&a=1079186973&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 Watch as Sanchit goes over the fundamental theorem of algebra and how it can be used to find the number of roots.
 
@@ -21,3 +23,9 @@ NC.M3.N-CN.9
 
 ### Tags
 Math 3, Polynomial, Roots, Solve, Fundamental Theorem of Algebra, Imaginary, Real, NC.M3.N-CN.9
+
+<a href="/resources/math-1-honors/">
+  <span style="font-size: 48px; color: #00000;">
+    <i class="fas fa-arrow-circle-left"> </i>
+  </span>
+</a> 
