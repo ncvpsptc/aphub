@@ -9,7 +9,6 @@ header:
   caption: "Photo credit: [**'JESHOOTS.com' on Pexels**](https://www.pexels.com/photo/person-holding-a-chalk-in-front-of-the-chalk-board-714699/)"
 ---
 
-
 <iframe width="560" height="315" src="https://ncvps.yuja.com/V/Video?v=2451604&node=8934715&a=1079186973&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 Watch as Sanchit goes over the fundamental theorem of algebra and how it can be used to find the number of roots.
 
