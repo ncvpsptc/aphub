@@ -15,7 +15,7 @@ header:
 </a> 
 
 <iframe width="560" height="315" src="https://ncvps.yuja.com/V/Video?v=2453268&node=8939136&a=592319291&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-Follow along as Sanchit tackles midpoint and endpoint problems with a simple formula and logic.
+Finding the midpoint of a segment using the midpoint formula and finding the endpoint of a segment using the midpoint.
 
 ## Information
 

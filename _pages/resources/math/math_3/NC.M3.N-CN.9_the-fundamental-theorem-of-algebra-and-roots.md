@@ -15,7 +15,7 @@ header:
 </a> 
 
 <iframe width="560" height="315" src="https://ncvps.yuja.com/V/Video?v=2451604&node=8934715&a=1079186973&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-Watch as Sanchit goes over the fundamental theorem of algebra and how it can be used to find the number of roots.
+Using the Fundamental Theorem of Algebra to find the number and types of roots that a polynomial has.
 
 ## Information
 
