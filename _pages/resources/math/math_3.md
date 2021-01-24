@@ -25,12 +25,14 @@ Coming Soon
 ## Number
 <a href="/resources/math-3/the-fundamental-theorem-of-algebra-and-roots" class="btn btn--inverse btn--x-large">The Fundamental Theorem of Algebra and Roots</a>
 
-<!-- 
-# Algebra
 
-# Functions
+<!--  # Algebra -->
 
-# Geometry
+## Functions
+<a href="/resources/math-3/finding-the-inverse-of-a-function" class="btn btn--inverse btn--x-large">Finding the Inverse of a Function</a>
+
+<!-- # Geometry
 
 # Statistics & Probability
+
 -->
