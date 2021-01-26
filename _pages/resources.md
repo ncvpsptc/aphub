@@ -22,6 +22,7 @@ toc_icon: "file-alt"
 # Honors/Regular
 ## Science
 <a href="/resources/biology" class="btn btn--inverse btn--x-large">Biology</a>
+<a href="/resources/chemistry" class="btn btn--inverse btn--x-large">Chemistry</a>
 
 ## Mathematics
 <a href="/resources/math-1" class="btn btn--inverse btn--x-large">Math I</a>
