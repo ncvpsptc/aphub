@@ -23,6 +23,7 @@ toc_icon: "file-alt"
 Coming Soon
 # Units
 ## Geometry
+<a href="/resources/math-1/the-distance-formula" class="btn btn--inverse btn--x-large">The Distance Formula </a>
 <a href="/resources/math-1/parallel-and-perpendicular-lines" class="btn btn--inverse btn--x-large">Parallel and Perpendicular Lines </a>
 <a href="/resources/math-1/finding-midpoint-and-endpoint-of-a-segment" class="btn btn--inverse btn--x-large">Finding Midpoint and Endpoint of a Segment </a>
 
