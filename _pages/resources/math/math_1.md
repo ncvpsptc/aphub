@@ -22,6 +22,10 @@ toc_icon: "file-alt"
 # Course Review
 Coming Soon
 # Units
+## Algebra
+<a href="/resources/math-1/operations_with_polynomials" class="btn btn--inverse btn--x-large">Operations with Polynomials </a>
+<a href="/resources/math-1/solving_literal_equations" class="btn btn--inverse btn--x-large">Solving Literal Equations </a>
+
 ## Geometry
 <a href="/resources/math-1/the-distance-formula" class="btn btn--inverse btn--x-large">The Distance Formula </a>
 <a href="/resources/math-1/parallel-and-perpendicular-lines" class="btn btn--inverse btn--x-large">Parallel and Perpendicular Lines </a>
