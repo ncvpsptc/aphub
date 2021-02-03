@@ -132,6 +132,9 @@ footer:
     - label: "Statuspage"
       icon: "fas fa-check-square"
       url: https://ptcresourcespage.statuspage.io/
+    - label: "Issue Reporting System"
+      icon: "fas fa-exclamation-circle"
+      url: https://docs.google.com/forms/d/e/1FAIpQLSfWc-u_uYDdN7EgfFwTt4NRPPAJ889JUzeG2vR5fp1BI9nhzA/viewform?usp=sf_link
 
 defaults:
   # _posts
