@@ -18,6 +18,8 @@ toc_icon: "file-alt"
 
 ## Math
 <a href="/resources/ap-statistics" class="btn btn--inverse btn--x-large">AP Statistics</a>
+<a href="/resources/ap-calculus-ab" class="btn btn--inverse btn--x-large">AP Calculus AB</a>
+<a href="/resources/ap-calculus-bc" class="btn btn--inverse btn--x-large">AP Calculus BC</a>
 
 # Honors/Regular
 ## Science
