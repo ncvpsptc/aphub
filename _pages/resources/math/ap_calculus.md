@@ -1,6 +1,6 @@
 ---
-title: "AP Calculus BC"
-permalink: /resources/ap-calculus-bc
+title: "AP Calculus"
+permalink: /resources/ap-calculus
 author_profile: false
 header:
   overlay_image: /assets/images/ap_calculus.jpg
