@@ -16,5 +16,8 @@ toc_icon: "file-alt"
   </span>
 </a> 
 
+## General Support
+<a href="/support/tech-support/clearing-cache/" class="btn btn--inverse btn--x-large">Clearing Cache</a>
+
 ## Canvas Support
 <a href="/support/tech-support/messaging-in-canvas/" class="btn btn--inverse btn--x-large">Messaging in Canvas</a>
