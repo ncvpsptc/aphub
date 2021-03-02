@@ -22,10 +22,6 @@ twitter_username: ncvps_ptc
 github_username: username
 minimal_mistakes_skin: dirt
 
-footer_scripts:
- - "https://kkv4my7nbhv3.statuspage.io/embed/script.js"
-
-
 search: true
 search_provider: algolia
 
