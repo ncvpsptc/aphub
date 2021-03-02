@@ -22,9 +22,8 @@ twitter_username: ncvps_ptc
 github_username: username
 minimal_mistakes_skin: dirt
 
-footer_scripts:
- - "https://kkv4my7nbhv3.statuspage.io/embed/script.js"
-
+after_footer_scripts:
+ - https://kkv4my7nbhv3.statuspage.io/embed/script.js
 
 search: true
 search_provider: algolia
@@ -63,6 +62,7 @@ analytics:
   google:
     tracking_id: "G-HXN46ZK843"
     anonymize_ip: false # default
+
 
 
 # Build settings
@@ -166,3 +166,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
