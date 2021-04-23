@@ -20,7 +20,8 @@ toc_icon: "file-alt"
 <a href="https://files.nc.gov/dpi/documents/files/eoc-nc-math-3-released-form.pdf" target="_blank" class="btn btn--inverse btn--x-large">Math III Released EOC</a>
 
 # Course Review
-Coming Soon
+<a href="/resources/math-3/2021-math-3-review-session" class="btn btn--inverse btn--x-large">PTC Review Session 2021 - Math III</a>
+
 # Units
 ## Number
 <a href="/resources/math-3/the-fundamental-theorem-of-algebra-and-roots" class="btn btn--inverse btn--x-large">The Fundamental Theorem of Algebra and Roots</a>
