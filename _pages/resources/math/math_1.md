@@ -20,8 +20,7 @@ toc_icon: "file-alt"
 <a href="https://files.nc.gov/dpi/documents/files/2016-math1unpacking-revjune2019.pdf" target="_blank" class="btn btn--inverse btn--x-large">Unpacked Content</a>
 
 # Course Review
-<a href="/resources/math-1/2021-math-1-review-session" class="btn btn--inverse btn--x-large">PTC Review Session 2021 - Math I </a>
-
+Coming Soon
 # Units
 ## Algebra
 <a href="/resources/math-1/operations_with_polynomials" class="btn btn--inverse btn--x-large">Operations with Polynomials </a>

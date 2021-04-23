@@ -23,7 +23,7 @@ toc_icon: "file-alt"
 <a href="https://files.nc.gov/dpi/documents/files/biology_3375_released_final-2019.pdf" target="_blank" class="btn btn--inverse btn--x-large">Biology Released EOC</a>
 
 # Course Review
-<a href="/resources/biology/2021-biology-review-session" class="btn btn--inverse btn--x-large">PTC Review Session 2021 - Biology </a>
+Coming Soon
 
 # Units
 Coming Soon
