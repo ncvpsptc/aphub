@@ -1,8 +1,6 @@
 main:
   - title: "Resources"
     url: /resources/
-  - title: "Posts"
-    url: /posts/
   - title: "Support"
     url: /support/
   - title: "About"
