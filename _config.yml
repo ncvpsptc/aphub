@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 logo: "/assets/images/logo.png"
-title: Peer Tutoring Center Resources Page
+title: AP Hub
 subtitle: "Developed by the NCVirtual Peer Tutoring Center"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -22,6 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: ncvps_ptc
 github_username: username
 minimal_mistakes_skin: dirt
+
+url: "https://ncvpsptc.github.io"
 baseurl: "/aphub"
 
 after_footer_scripts:
