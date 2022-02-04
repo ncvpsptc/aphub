@@ -12,20 +12,5 @@ toc_label: " Table of Contents"
 toc_icon: "file-alt"
 ---
 
-# AP (Advanced Placement)
-## Science
-<a href="/resources/ap-biology" class="btn btn--inverse btn--x-large">AP Biology</a>
-
-## Math
-<a href="/resources/ap-calculus" class="btn btn--inverse btn--x-large">AP Calculus (AB and BC)</a>
-<a href="/resources/ap-statistics" class="btn btn--inverse btn--x-large">AP Statistics</a>
-
-# Honors/Regular
-## Science
-<a href="/resources/biology" class="btn btn--inverse btn--x-large">Biology</a>
-<a href="/resources/chemistry" class="btn btn--inverse btn--x-large">Chemistry</a>
-
-## Mathematics
-<a href="/resources/math-1" class="btn btn--inverse btn--x-large">Math I</a>
-<a href="/resources/math-2" class="btn btn--inverse btn--x-large">Math II</a>
-<a href="/resources/math-3" class="btn btn--inverse btn--x-large">Math III</a>
+## Sciences
+<a href="ap-physics-1" class="btn btn--inverse btn--x-large">AP Physics I</a>
