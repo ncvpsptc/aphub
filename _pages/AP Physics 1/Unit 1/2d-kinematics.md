@@ -9,3 +9,6 @@ header:
   caption: "Photo credit: [**'Andrea Piacquadio' on Pexels**](https://www.pexels.com/photo/woman-holding-books-3768126/)"
 ---
 <iframe width="560"  height="315"  src="https://ncvps.yuja.com/V/Video?v=4130307&node=14111071&a=1067447693&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen loading="lazy"></iframe>
+
+“AP® Physics 1 Course and Exam Description.” College Board, 2021. 
+“AP® Physics 1: Algebra-Based Free-Response Questions.” College Board, 2021. 
