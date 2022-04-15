@@ -3,9 +3,9 @@ title: "AP Physics 1"
 permalink: /resources/ap-physics-1/
 author_profile: false
 header:
-  overlay_image: /assets/images/ap_calculus.jpg
+  overlay_image: /assets/images/physics_header.jpg
   overlay_filter: 0.5
-  caption: "Photo credit: [**'Andrea Piacquadio' on Pexels**](https://www.pexels.com/photo/woman-holding-books-3768126/)"
+  caption: "Photo credit: [**'Scott Webb' on Pexels**](https://www.pexels.com/photo/people-riding-carousel-in-park-136412/)"
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "file-alt"
