@@ -37,3 +37,11 @@ Varun V.:
     - label: "Request a Session"
       icon: "far fa-life-ring"
       url: "https://ncvps.upswing.io/up/dashboard/coach/07JCCuCzNH5Kr10kiMqUPCXXEok="
+
+Cheryl L.:
+  name        : "Cheryl L."
+  avatar      : "/assets/images/cheryl_li.jpg"
+  links:
+    - label: "Request a Session"
+      icon: "far fa-life-ring"
+      url: "https://ncvps.upswing.io/up/dashboard/coach/Dva8zlORlC9F5QxaaocoEuJk6yM="
