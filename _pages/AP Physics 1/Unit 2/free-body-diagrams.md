@@ -1,5 +1,5 @@
 ---
-title: "2D Kinematics"
+title: "Free Body Diagrams"
 permalink: /resources/ap-physics-1/free-body-diagrams/
 author_profile: true
 author: Cheryl L.

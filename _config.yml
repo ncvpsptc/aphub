@@ -29,13 +29,17 @@ after_footer_scripts:
  - https://kkv4my7nbhv3.statuspage.io/embed/script.js
 
 search: true
-search_provider: algolia
+# search_provider: algolia
 
-algolia:
-  application_id: F7OL26MPPT
-  index_name: ptcresources_index
-  search_only_api_key: 7ce24efec63b78b3b6e354591a6ab516
-  powered_by: true
+lunr:
+  search_within_pages: true
+
+
+#algolia:
+ # application_id: F7OL26MPPT
+  #index_name: ptcresources_index
+  #search_only_api_key: 7ce24efec63b78b3b6e354591a6ab516
+  #powered_by: true
   
   settings:
     searchableAttributes:
