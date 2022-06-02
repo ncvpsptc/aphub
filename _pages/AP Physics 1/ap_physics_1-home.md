@@ -1,6 +1,6 @@
 ---
 title: "AP Physics 1"
-permalink: /resources/ap-physics-1/
+permalink: /library/ap-physics-1/
 author_profile: false
 header:
   overlay_image: /assets/images/physics_header.jpg
@@ -12,7 +12,9 @@ toc_icon: "file-alt"
 ---
 
 ## Unit 1: Kinematics
+
 [2D Kinematics](2d-kinematics)
 
 ## Unit 2: Dynamics
+
 [Free Body Diagrams](free-body-diagrams)
