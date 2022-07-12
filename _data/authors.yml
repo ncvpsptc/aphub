@@ -45,3 +45,11 @@ Cheryl L.:
     - label: "Request a Session"
       icon: "far fa-life-ring"
       url: "https://ncvps.upswing.io/up/dashboard/coach/Dva8zlORlC9F5QxaaocoEuJk6yM="
+
+Isabel U.:
+  name        : "Isabel U."
+  avatar      : "/assets/images/profile_placeholder.png"
+  links:
+    - label: "Request a Session"
+      icon: "far fa-life-ring"
+      url: "https://ncvps.upswing.io/up/dashboard/coach/miCAWH4UP8G+OywyYEp4U6P~2FX1I="
